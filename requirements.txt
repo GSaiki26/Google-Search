@@ -1,0 +1,7 @@
+## Libs
+requests
+
+## Pip libs
+googlesearch-python ## To search on google.
+bs4 ## Beatiful soup.
+termcolor ## Colored fext.

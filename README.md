@@ -1,4 +1,11 @@
 # Google Search
+The program's objective is just do some search on google and wrap his "main" content. You can search a list of things, just paste it on a text file and specify on the menu.
 
-This program have the objective to do researches on the google and write the site's content ('p', 'spam') in a .txt (You can found in the folder 'results').
-You can write your researches in the search.txt using the breakline to split your topics (each line is a research).
+## Requirements
+To run the program, you need to install the *requirements.txt* using ```pip install -r requirements.txt```.
+
+## Usage
+To use the script, you can search by a phrase, writting on the console, on option: *[OPT] Search*
+To search multiples phrases, you can use the option: *[OPT] Search (File)* and specify the file's name. Remember, the phrases must be separed by lines.
+
+Have fun!!!
