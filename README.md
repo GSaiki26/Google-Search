@@ -1,4 +1,12 @@
 # Google Search
+
+## Summary
+[Description](#Description)
+[Requirements](#Requirements)
+[Usage](#Usage)
+
+
+## Description
 The program's objective is just do some search on google and wrap his "main" content. You can search a list of things, just paste it on a text file and specify on the menu.
 
 ## Requirements
